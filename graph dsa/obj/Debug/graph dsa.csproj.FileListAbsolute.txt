@@ -1,0 +1,22 @@
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.AssemblyReference.cache
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph_dsa.Properties.Resources.resources
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.GenerateResource.cache
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.CoreCompileInputs.cache
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\bin\Debug\graph dsa.exe.config
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\bin\Debug\graph dsa.exe
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\bin\Debug\graph dsa.pdb
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.exe
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.pdb
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph dsa.exe.config
+C:\Users\Neil Anthony\source\repos\graph dsa\graph dsa\obj\Debug\graph_dsa.ShopItem.resources
+D:\DSA\graph dsa\graph dsa\bin\Debug\graph dsa.exe.config
+D:\DSA\graph dsa\graph dsa\bin\Debug\graph dsa.exe
+D:\DSA\graph dsa\graph dsa\bin\Debug\graph dsa.pdb
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.AssemblyReference.cache
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.exe.config
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph_dsa.ShopItem.resources
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph_dsa.Properties.Resources.resources
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.GenerateResource.cache
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.csproj.CoreCompileInputs.cache
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.exe
+D:\DSA\graph dsa\graph dsa\obj\Debug\graph dsa.pdb
